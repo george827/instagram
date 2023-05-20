@@ -74,3 +74,4 @@ end
 gem "devise"
 gem "jquery-rails"
 gem "bootstrap"
+gem 'toastr-rails', '~> 1.0', '>= 1.0.3'

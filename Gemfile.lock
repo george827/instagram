@@ -215,6 +215,8 @@ GEM
     thor (1.2.1)
     tilt (2.1.0)
     timeout (0.3.2)
+    toastr-rails (1.0.3)
+      railties (>= 3.1.0)
     turbo-rails (1.4.0)
       actionpack (>= 6.0.0)
       activejob (>= 6.0.0)
@@ -260,6 +262,7 @@ DEPENDENCIES
   selenium-webdriver
   sprockets-rails
   stimulus-rails
+  toastr-rails (~> 1.0, >= 1.0.3)
   turbo-rails
   tzinfo-data
   web-console
